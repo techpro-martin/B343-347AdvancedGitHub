@@ -20,4 +20,8 @@ public class MyClass {
 
     //Techpro branch, version t3
     public String string7 = "Hangi string oldugunun hesabani yapamadim.";
+
+    //Techpro branch, version t4
+    public String string8 = "Dar geldi sana Ankara.";
+
 }
