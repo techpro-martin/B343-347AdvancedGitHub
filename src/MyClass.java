@@ -20,4 +20,11 @@ public class MyClass {
 
     //Version v5
     public String string7 = "Tarabya'da villasi, cafcafli arabasi";
+
+    //Techpro branch, version t3
+    public String string8 = "Hangi string oldugunun hesabani yapamadim.";
+
+    //Techpro branch, version t4
+    public String string9 = "Dar geldi sana Ankara.";
+
 }
