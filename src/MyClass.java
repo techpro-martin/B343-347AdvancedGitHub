@@ -29,4 +29,7 @@ public class MyClass {
 
     //Techpro branch, version t5
     public String string10 = "Affet beni aksam ustu";
+
+    //Conflict example, v7
+    public String string11 = "Eski koprunun altinda";
 }
